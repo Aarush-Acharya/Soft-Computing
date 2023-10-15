@@ -5,7 +5,7 @@ This is a fun repo for Soft Computing mid term prep 📖🤓
 
 ## Soft Computing Syllabus 
 
-- Hard/soft Intro
+- Hard Computing and Soft Computing Intro
 - Operations on Fuzzy Set Intro
 - Fuzzy Logic Details
    - Introduction to crisp set and fuzzy set.
