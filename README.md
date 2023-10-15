@@ -14,8 +14,8 @@ This is a fun repo for Soft Computing mid term prep 📖🤓
    - Properties of fuzzy sets
    - Fuzzy relations
    - Fuzzy compositions
-   - Fuzzy Propositions
-   - Fuzzy Implications
+- Fuzzy Propositions
+- Fuzzy Implications
 - Defuzzification
 - Genetic Algorithm
    - Introduction to Evolutionary Computing
